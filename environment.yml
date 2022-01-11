@@ -1,0 +1,17 @@
+name: GDIP
+channels:
+- pytorch
+- defaults
+dependencies:
+- jupyter
+- nb_conda
+- numpy
+- pyyaml
+- mkl
+- setuptools
+- cmake
+- cffi
+- pytorch
+- matplotlib
+- scikit-image
+- torchvision
